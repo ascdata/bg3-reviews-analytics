@@ -36,11 +36,17 @@ The dataset consists of around 309.103 Steam user reviews of Baldur's Gate 3, up
 
 ### About Baldur's Gate 3
 
+<img src="images/bg3.png" alt="Baldur's Gate 3" width="50%">
+
+
 Baldur's Gate 3 is a 2023 role-playing video game developed and published by Belgian game studio Larian Studios. The game is the third main installment in the Baldur's Gate series, based on the tabletop fantasy role-playing system of Dungeons & Dragons. A partial version of the game was released in early access format for macOS and Windows in October 2020. It remained in early access until its full release for Windows in August 2023, with versions for PlayStation 5, macOS, and Xbox Series X/S releasing later that year.
 
 Baldur's Gate 3 received critical acclaim, with praise for its gameplay, narrative, and production quality. It won several Game of the Year awards, including from the Golden Joystick Awards and The Game Awards.
 
 ### About Steam
+
+<img src="images/steam.png" alt="Steam" width="50%">
+
 
 Steam is a video game digital distribution service and storefront developed by Valve Corporation. It was launched as a software client in September 2003 to provide game updates automatically for Valve's games, and expanded to distributing third-party titles in late 2005. Steam offers various features, like game server matchmaking with Valve Anti-Cheat measures, social networking, and game streaming services. Steam client's functions include game update automation, cloud storage for game progress, and community features such as direct messaging, in-game overlay functions and a virtual collectable marketplace. Steamworks, a freely available application programming interface (API) released in 2008, is used by developers to integrate Steam's functions, including digital rights management (DRM), into their game products.
 
